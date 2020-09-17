@@ -2,7 +2,7 @@
   "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Vivek-396.github.io/Moster-Rolodex",
+  "homepage":"https://vivek-396.github.io/Moster-Rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
